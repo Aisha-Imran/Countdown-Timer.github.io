@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.main {
+    height: 100%;
+    margin: 50px auto;
+    width: 50%;
+    text-align: center;
+    
+}
+h1{
+   text-align: center;
+   font-weight: bold;
+   margin-top: 50px;
+   font-style: italic;
+}
+.timer{
+    height: 100px;
+    width: 80%;
+    margin: 10px auto;
+    text-align: center;
+
+    color: white;
+}
+p{
+    color: #000;
+    font-size: 60px;
+    font-weight: bold;
+    padding-top: 10px;
+}
+
+
